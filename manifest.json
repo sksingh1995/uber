@@ -1,0 +1,41 @@
+{
+  "short_name": "Uber",
+  "name": "Uber",
+  "start_url": "/",
+  "theme_color": "#dc143c",
+  "background_color": "#ds2323",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/32x32.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/70x70.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/144x144.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/150x150.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
